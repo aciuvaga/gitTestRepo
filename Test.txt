@@ -8,3 +8,4 @@ to learn bitbucket
 learning 
 how to make 
 branch
+learn what is a merge
